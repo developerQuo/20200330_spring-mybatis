@@ -1,6 +1,26 @@
 # 20200330_spring-mybatis
 ## 비트캠프 final 팀프로젝트: spring-mybatis framework + MVC 
 
+## 프로젝트 개요
+* 팀 이름: TodakTodak
+* 프로젝트명: 토닥토닥 프로젝트
+* 참여인원: 5명
+* 개발기간: 2020.01.17 ~ 2020.03.30 (전체 67일. working day: 45 x 8 = 360시간)
+* 내용: 비영리단체의 업무 중, 인사관리, 전자결재, 일정관리를 중점으로 지원하는 그룹웨어.
+* 개발환경: 
+<pre>
+Front-end : Client-Side-Script: HTML5, CSS3, JavaScript(ECMAScript3), jQuery, Ajax, BootStrap3, BootStrap4    Server-Side-Script : jsp-api 2.0, Servlet api 3.2
+Data Handling : xml, json, plain-text
+
+Back-end : JDK 1.7, Spring framework 3, Mybatis 3, Mybatis-spring 1.2, Oracle11g R 2 (AWS EC R2), 파일업로드 api – cos.jar, Jackson DataBind 2.5, Log4j 1.2
+
+Open API : Daum 우편번호 찾기 API, Fullcalendar v4.3.1, Smart-editor v2, Flot Charts v3.0.0, Datepicker, JavaMail API v1.4
+      
+Tool : eclipse luna, Apache Tomcat 8.0, SQL Developer, STS, Erdwin, Git Bash, GitHub, StarUML, AWS, Chrome 8.0, Adobe Photoshop CC 2015,
+Adobe illustrator CC 2017</pre>
+* 담당업무: PL, 문서작업, 후원관리 시각화, 형상관리, 공통로직 개발(로그인 세션처리, TX처리), 통합작업, 발표
+
+
 ### 시스템 아키텍처
 ***
 <p align="center">
@@ -26,15 +46,15 @@
 ### 요구사항 정의서
 ***
 <p align="center">
-<img src="/img/요구사항정의서_전체.JPG" width="60%" height="40%" title="요구사항정의서_전체"></img>
-<img src="/img/요구사항정의서.JPG" width="60%" height="40%" title="요구사항정의서"></img>
+<img src="/img/요구사항정의서_전체.JPG" width="49%" height="40%" title="요구사항정의서_전체"></img>
+<img src="/img/요구사항정의서.JPG" width="49%" height="40%" title="요구사항정의서"></img>
 </p>   
 
 ### 요건 정의서
 ***
 <p align="center">
-<img src="/img/요건정의서_전체.JPG" width="50%" height="40%" title="요건정의서_전체"></img>
-<img src="/img/요건정의서.JPG" width="50%" height="40%" title="요건정의서"></img>
+<img src="/img/요건정의서_전체.JPG" width="49%" height="40%" title="요건정의서_전체"></img>
+<img src="/img/요건정의서.JPG" width="49%" height="40%" title="요건정의서"></img>
 </p>   
 
 ### WBS 프로젝트 일정
@@ -52,38 +72,38 @@
 ### 화면 정의서
 ***
 <p align="center">
-<img src="/img/로그인.JPG" width="50%" height="40%" title="로그인"></img>
-<img src="/img/후원관리_모금액.JPG" width="50%" height="40%" title="후원관리_모금액"></img>
+<img src="/img/로그인.JPG" width="49%" height="40%" title="로그인"></img>
+<img src="/img/후원관리_모금액.JPG" width="49%" height="40%" title="후원관리_모금액"></img>
 </p>   
 
 ### 테이블 정의서
 ***
 <p align="center">
-<img src="/img/테이블정의서_전체.JPG" width="50%" height="40%" title="테이블정의서_전체"></img>
-<img src="/img/테이블정의서.JPG" width="50%" height="40%" title="테이블정의서"></img>
+<img src="/img/테이블정의서_전체.JPG" width="49%" height="40%" title="테이블정의서_전체"></img>
+<img src="/img/테이블정의서.JPG" width="49%" height="40%" title="테이블정의서"></img>
 </p>   
 
 ### ERD
 ***
 <p align="center">
-<img src="/img/erd-physical.JPG" width="50%" height="40%" title="erd-physical"></img>
-<img src="/img/erd2-physical.JPG" width="50%" height="40%" title="erd2-physical"></img>
-<img src="/img/erd-logical.JPG" width="50%" height="40%" title="erd-logical"></img>
-<img src="/img/erd2-logical.JPG" width="50%" height="40%" title="erd2-logical"></img>
+<img src="/img/erd-physical.JPG" width="49%" height="40%" title="erd-physical"></img>
+<img src="/img/erd2-physical.JPG" width="49%" height="40%" title="erd2-physical"></img>
+<img src="/img/erd-logical.JPG" width="49%" height="40%" title="erd-logical"></img>
+<img src="/img/erd2-logical.JPG" width="49%" height="40%" title="erd2-logical"></img>
 </p>   
 
 ### 클래스 설계서
 ***
 <p align="center">
-<img src="/img/class_diagram_전체.JPG" width="60%" height="40%" title="class_diagram_전체"></img>
-<img src="/img/class_diagram_1JPG.JPG" width="60%" height="40%" title="class_diagram_1JPG"></img>
+<img src="/img/class_diagram_전체.JPG" width="49%" height="40%" title="class_diagram_전체"></img>
+<img src="/img/class_diagram_1JPG.JPG" width="49%" height="40%" title="class_diagram_1JPG"></img>
 </p>   
 
 ### 프로그램목록
 ***
 <p align="center">
-<img src="/img/프로그램목록_전체.JPG" width="60%" height="40%" title="프로그램목록_전체"></img>
-<img src="/img/프로그램목록2.JPG" width="60%" height="40%" title="프로그램목록2"></img>
+<img src="/img/프로그램목록_전체.JPG" width="49%" height="40%" title="프로그램목록_전체"></img>
+<img src="/img/프로그램목록2.JPG" width="49%" height="40%" title="프로그램목록2"></img>
 </p>   
 
 ### 프로젝트 구현 로그인
