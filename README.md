@@ -10,16 +10,19 @@
 * 개발환경: 
 <pre>
 Front-end : Client-Side-Script: HTML5, CSS3, JavaScript(ECMAScript3), jQuery, Ajax, BootStrap3, BootStrap4    Server-Side-Script : jsp-api 2.0, Servlet api 3.2
+
 Data Handling : xml, json, plain-text
 
 Back-end : JDK 1.7, Spring framework 3, Mybatis 3, Mybatis-spring 1.2, Oracle11g R 2 (AWS EC R2), 파일업로드 api – cos.jar, Jackson DataBind 2.5, Log4j 1.2
 
 Open API : Daum 우편번호 찾기 API, Fullcalendar v4.3.1, Smart-editor v2, Flot Charts v3.0.0, Datepicker, JavaMail API v1.4
       
-Tool : eclipse luna, Apache Tomcat 8.0, SQL Developer, STS, Erdwin, Git Bash, GitHub, StarUML, AWS, Chrome 8.0, Adobe Photoshop CC 2015,
-Adobe illustrator CC 2017</pre>
-* 담당업무: PL, 문서작업, 후원관리 시각화, 형상관리, 공통로직 개발(로그인 세션처리, TX처리), 통합작업, 발표
-
+Tool : eclipse luna, Apache Tomcat 8.0, SQL Developer, STS, Erdwin, Git Bash, GitHub, StarUML, AWS, Chrome 8.0, Adobe Photoshop CC 2015, Adobe illustrator CC 2017</pre>   
+   
+* __나의 담당업무: PL, 문서작업, 후원관리 시각화, 형상관리, 공통로직 개발(로그인 세션처리, TX처리), 통합작업, 발표__
+* 형상관리
+	+ 툴 이름: Git, Github
+	+ 사용방법: Git Bash를 사용. 로컬저장소에 깃디렉토리를 생성하고 그 디렉토리에 프로젝트파일을 push, pull 했음.
 
 ### 시스템 아키텍처
 ***
@@ -112,7 +115,7 @@ Adobe illustrator CC 2017</pre>
 <img src="/img/프로젝트_로그인.png" width="60%" height="40%" title="프로젝트_로그인"></img>
 </p>   
 
-### 프로젝트 구현 메인
+### 프로젝트 구현 메인 (일정관리 페이지)
 ***
 <p align="center">
 <img src="/img/프로젝트_메인.png" width="60%" height="40%" title="프로젝트_메인"></img>
