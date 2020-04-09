@@ -19,19 +19,20 @@ Open API : Daum 우편번호 찾기 API, Fullcalendar v4.3.1, Smart-editor v2, F
       
 Tool : eclipse luna, Apache Tomcat 8.0, SQL Developer, STS, Erdwin, Git Bash, GitHub, StarUML, AWS, Chrome 8.0, Adobe Photoshop CC 2015, Adobe illustrator CC 2017</pre>   
    
-* __나의 담당업무: PL, 문서작업, 후원관리 시각화, 형상관리, 공통로직 개발(로그인 세션처리, TX처리), 통합작업, 발표__
+* __나의 담당업무: PL, 문서작업, 후원관리 시각화, 형상관리, 공통로직 개발(로그인 세션처리, TX처리), 통합작업, 발표__   
+   
 * 형상관리
 ***
 <p align="center">
 <img src="/img/형상관리.JPG" width="40%" height="30%" title="형상관리"></img>
 </p>   
    
-	+ 툴 이름: Git, Github
-	+ 사용방법: Git Bash를 사용. 로컬저장소에 깃디렉토리를 생성하고 sibling한 프로젝트 폴더를 push, pull 했음.
-	+ 시간과 장소에 구애받지 않고 팀원들이 올린 작업물을 확인하고 다운로드 받을 수 있는 점이 편리했다.
-	+ 단순하게 원격저장소에 push, pull을 할 수 밖에 없어서 통합작업을 할 때, 팀원들간 통합 순서를 정하고 올리는 한계가 있었다.   
+	툴 이름: Git, Github
+	사용방법: Git Bash를 사용. 로컬저장소에 깃디렉토리를 생성하고 sibling한 프로젝트 폴더를 push, pull 했음.
+	시간과 장소에 구애받지 않고 팀원들이 올린 작업물을 확인하고 다운로드 받을 수 있는 점이 편리했다.
+	단순하게 원격저장소에 push, pull을 할 수 밖에 없어서 통합작업을 할 때, 팀원들간 통합 순서를 정하고 올리는 한계가 있었다.   
 		-> merge 기능을 익혀 더 수월하게 통합을 할 수 있는 방법을 찾아볼 것이다.
-
+   
 ### 시스템 아키텍처
 ***
 <p align="center">
